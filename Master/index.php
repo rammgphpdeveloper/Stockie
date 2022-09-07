@@ -1,5 +1,3 @@
 <?php
-echo phpinfo();
-
-asdsa
+echo "ramji";
 ?>
